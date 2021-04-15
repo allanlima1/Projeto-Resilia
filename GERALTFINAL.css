@@ -1,0 +1,39 @@
+body {
+    height: 100%;
+    margin: 0px;
+}
+
+.background {
+    background-image: url(./Reino.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-shadow: 2px 2px black;
+    font-size: 75px;
+    align-content: center;
+    text-align: center;
+    color: #FFCB05;
+
+}
+.botao {
+    align-content: center;
+    padding: 10px, 8px;
+    border-radius: 15px;
+    width: 250px;
+    height: 45px;
+    color: white;
+    border: black 3px solid;
+    background: rgb(43, 42, 42);
+    margin-top: 280px;
+    font-size: 25px;
+
+}
+
+p {
+    text-shadow: 2px 2px black;
+
+}

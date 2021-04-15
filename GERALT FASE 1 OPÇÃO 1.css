@@ -1,0 +1,59 @@
+body {
+    height: 100%;
+    margin: 0px;
+}
+
+.background {
+    background-image: url(./CASTELO\ NOITE\ GERALT.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.ImagemENomeGeralt {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+    padding-left: 0;
+    padding-top: 0;
+    padding-right: 20px;
+    padding-bottom: 0;
+    border: rgb(34, 34, 34) solid 3px;
+    margin-right: 480px;
+    margin-left: 20px;
+    margin-bottom: 380px;
+    font-family: sans-serif;
+    font-size: 25px;
+    color: rgb(226, 221, 221);
+    text-align: justify;
+
+}
+
+.HistoriaGeralt2 {
+    font-size: 25px;
+    color: rgb(226, 221, 221);
+    font-size: 25px;
+    text-align: justify;
+    margin-top: 220px;
+    margin-left: 20px;
+
+}
+.botao {
+    align-content: center;
+    padding: 10px, 8px;
+    border-radius: 15px;
+    width: 120px;
+    height: 25px;
+    color: white;
+    border: black 1px solid;
+    background: rgb(43, 42, 42);
+
+
+}
+
+p {
+    text-shadow: 2px 2px black;
+
+}
